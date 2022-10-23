@@ -1,2 +1,3 @@
 ABDULQADIR ABUHARRUS CV
-Initial excercise combining HTML and CSS
+
+Excercise combining HTML and CSS;
